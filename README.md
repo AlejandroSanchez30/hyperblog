@@ -1,2 +1,5 @@
-# hyperblog
-Blog para el curso de Git y GitHub de Platzi
+# README.md   :tw-1f4d7:
+
+###### Este es un README de ejemplo para practicar la edición de archivos .md.
+
+> Los archivos MD son básicamente archivos de texto que se utilizan para escribir documentación también en texto sin formato, por lo que pueden convertirse al formato HTML.
