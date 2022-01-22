@@ -61,3 +61,13 @@ body
     padding: 1em;
 }
 
+#parrafoImagen
+{
+    text-align: center;
+}
+#imagen
+{
+    
+    width: 70%;
+    height: 70%;
+}
